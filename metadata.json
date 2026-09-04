@@ -1,0 +1,6 @@
+{
+  "name": "Learn About Islam with Dr. Mahjob Dogul",
+  "description": "A world-class global Islamic educational platform introducing Islam to Muslims, new Muslims, non-Muslims, students, families, and researchers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
